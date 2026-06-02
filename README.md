@@ -45,7 +45,7 @@ I am a Computer Science student at the University of Oregon (graduating June 202
 #### **Full Stack Software Engineer** @ [QuackHacks](https://quackhacks.org/)
 *February 2025 – Present | Eugene, OR*
 
-#### **Intern Software Developer** @ [Almaprism Inc.](https://almaprism.co.jp/)
+#### **Intern Software Developer** @ [Almaprism Inc.](https://almaprism.com/)
 *April 2025 – June 2025 | Kyoto, Japan*
 
 ---
@@ -58,19 +58,6 @@ I am a Computer Science student at the University of Oregon (graduating June 202
 * **FastAPI Backend:** Built a REST API in Python using FastAPI covering autocomplete class searches, professor details, and department structures.
 * **Visual Data:** Created letter-grade distribution charts in React and TypeScript to show grade breakdowns per professor, helping students optimize course choices.
 * **AWS Cloud Hosting:** Deployed the React frontend to AWS Amplify, and configured FastAPI servers on EC2, using Amazon CloudFront for routing and caching.
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/Aaron-Reyes-Rodriguez">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aaron-Reyes-Rodriguez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aaron's GitHub Stats" height="180px">
-  </a>
-  <a href="https://github.com/Aaron-Reyes-Rodriguez">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Reyes-Rodriguez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px">
-  </a>
-</p>
 
 ---
 
