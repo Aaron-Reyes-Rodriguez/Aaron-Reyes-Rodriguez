@@ -1,6 +1,6 @@
 # Aaron Reyes Rodriguez
 
-<h1 align="center">Hi, I'm Aaron Reyes Rodriguez</h1>
+<h1 align="center">Hello, I'm Aaron Reyes Rodriguez!</h1>
 <p align="center">
   <b>Computer Science Student @ University of Oregon | Full-Stack & Software Developer</b>
 </p>
