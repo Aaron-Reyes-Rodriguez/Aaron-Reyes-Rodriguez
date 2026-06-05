@@ -25,7 +25,7 @@ I am a Computer Science student at the University of Oregon (graduating June 202
 
 * **Education:** B.S. in Computer Science @ University of Oregon (GPA: 3.84)
 * **Current Role:** Full Stack Software Engineer at [QuackHacks](https://quackhacks.org/) (Oregon's largest MLH hackathon)
-* **Global Experience:** Software Engineering Intern at Almaprism Inc. in Kyoto, Japan
+* **Global Experience:** Software Engineering Intern at [Almaprism Inc.](https://almaprism.com/) in Kyoto, Japan
 * **Research:** Co-authored a research abstract on pediatric ADHD behavioral metrics that won Best Oral Presentation at the Japan Society for ADHD Annual Conference.
 
 ---
