@@ -43,10 +43,13 @@ I am a Computer Science student at the University of Oregon (graduating June 202
 ### Professional Experience
 
 #### **Full Stack Software Engineer** @ [QuackHacks](https://quackhacks.org/)
-*February 2025 – Present | Eugene, OR*
+*February 2025 – June 2026 | Eugene, OR*
 
 #### **Intern Software Developer** @ [Almaprism Inc.](https://almaprism.com/)
 *April 2025 – June 2025 | Kyoto, Japan*
+
+#### **Intern Software Engineer** @ [Modern Amenities](https://www.modern-amenities.com/)
+*April 2026 – June 2026 | Eugene, Oregon*
 
 ---
 
