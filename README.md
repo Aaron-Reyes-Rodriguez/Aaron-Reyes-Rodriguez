@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aaron-reyes-rodriguez-4169a7325" target="_blank">
+  <a href="https://linkedin.com/in/aaron-reyes-rodriguez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:aaronreyesrodriguez504@gmail.com">
@@ -57,7 +57,7 @@ I am a Computer Science student at the University of Oregon (graduating June 202
 ### Contact & Links
 
 * **Email:** [aaronreyesrodriguez504@gmail.com](mailto:aaronreyesrodriguez504@gmail.com)
-* **LinkedIn:** [linkedin.com/in/aaron-reyes-rodriguez-4169a7325](https://linkedin.com/in/aaron-reyes-rodriguez-4169a7325)
+* **LinkedIn:** [linkedin.com/in/aaron-reyes-rodriguez](https://linkedin.com/in/aaron-reyes-rodriguez)
 
 ---
 
