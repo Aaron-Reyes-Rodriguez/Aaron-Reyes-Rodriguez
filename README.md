@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Aaron Reyes Rodriguez!</h1>
 <p align="center">
-  <b>Computer Science Student @ University of Oregon | Full-Stack & Software Developer</b>
+  <b>Computer Science Graduate @ University of Oregon | Full-Stack & Software Developer</b>
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 ### About Me
 
-I am a Computer Science student at the University of Oregon (graduating June 2026). My work focuses on full-stack web development, systems optimization, and algorithm design.
+I am a Computer Science Graduate from University of Oregon. My work focuses on full-stack web development, systems optimization, and algorithm design.
 
-* **Education:** B.S. in Computer Science @ University of Oregon (GPA: 3.84, Cum Laude)
+* **Education:** B.S. in Computer Science @ University of Oregon (GPA: 3.88, Magna Cum Laude)
 * **Most Recent Role:** Lead Full Stack Software Engineer at [QuackHacks](https://quackhacks.org/) (Oregon's largest MLH hackathon)
 * **Global Experience:** Software Engineering Intern at [Almaprism Inc.](https://almaprism.com/) in Kyoto, Japan
 * **Research:** Co-authored a research abstract on pediatric ADHD behavioral metrics that won Best Oral Presentation at the Japan Society for ADHD Annual Conference.
