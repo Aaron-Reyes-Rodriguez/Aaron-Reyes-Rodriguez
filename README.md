@@ -21,10 +21,12 @@
 
 ### About Me
 
-I am a Computer Science Graduate from University of Oregon. My work focuses on full-stack web development, systems optimization, and algorithm design.
+I'm a software engineer who just graduated from the University of Oregon. I like building things that are useful to real people —
+whether that's a hackathon platform handling thousands of users, a course scheduler helping students pick better classes,
+or clinical software supporting ADHD research in Japan. Outside of code I'm usually playing basketball or outside with my dog, Max.
 
 * **Education:** B.S. in Computer Science @ University of Oregon (GPA: 3.88, Magna Cum Laude)
-* **Most Recent Role:** Lead Full Stack Software Engineer at [QuackHacks](https://quackhacks.org/) (Oregon's largest MLH hackathon)
+* **Most Recent Role:** Senior Full Stack Software Engineer at [QuackHacks](https://quackhacks.org/) (Oregon's largest MLH hackathon)
 * **Global Experience:** Software Engineering Intern at [Almaprism Inc.](https://almaprism.com/) in Kyoto, Japan
 * **Research:** Co-authored a research abstract on pediatric ADHD behavioral metrics that won Best Oral Presentation at the Japan Society for ADHD Annual Conference.
 
